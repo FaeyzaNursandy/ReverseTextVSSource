@@ -1,0 +1,9 @@
+C:\Users\5stars\source\repos\Reversetutorial\Reversetutorial\bin\Debug\Reversetutorial.exe
+C:\Users\5stars\source\repos\Reversetutorial\Reversetutorial\bin\Debug\Reversetutorial.pdb
+C:\Users\5stars\source\repos\Reversetutorial\Reversetutorial\obj\Debug\Reversetutorial.csprojAssemblyReference.cache
+C:\Users\5stars\source\repos\Reversetutorial\Reversetutorial\obj\Debug\Reversetutorial.Form1.resources
+C:\Users\5stars\source\repos\Reversetutorial\Reversetutorial\obj\Debug\Reversetutorial.Properties.Resources.resources
+C:\Users\5stars\source\repos\Reversetutorial\Reversetutorial\obj\Debug\Reversetutorial.csproj.GenerateResource.cache
+C:\Users\5stars\source\repos\Reversetutorial\Reversetutorial\obj\Debug\Reversetutorial.csproj.CoreCompileInputs.cache
+C:\Users\5stars\source\repos\Reversetutorial\Reversetutorial\obj\Debug\Reversetutorial.exe
+C:\Users\5stars\source\repos\Reversetutorial\Reversetutorial\obj\Debug\Reversetutorial.pdb
